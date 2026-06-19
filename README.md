@@ -1,11 +1,14 @@
+# RentHome Mobile App
 
-  # RentHome mobile app
+Мобильное приложение для недвижимости на React + Capacitor.
 
-  This is a code bundle for RentHome mobile app. The original project is available at https://www.figma.com/design/IPe8thNzGyBmTfMCjl5IHZ/RentHome-mobile-app.
+## Ссылки
+- **Демо:** https://my-app-psi-swart-33.vercel.app
+- **GitHub:** https://github.com/RAUF000/my-app
+- **Figma:** https://www.figma.com/design/IPe8thNzGyBmTfMCj15IHZ/RentHome-mobile-app
 
-  ## Running the code
+## Установка
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+```bash
+npm install
+npm run dev
